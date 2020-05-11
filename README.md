@@ -3,6 +3,8 @@
 File>Import>.t3d
 Tested with the Deus Ex version of UnrealEd.
 
+![](https://user-images.githubusercontent.com/6402525/81540983-bfb3ae00-9372-11ea-9813-fb7657882694.png "preview")
+
 ---
 
 *Imports;*
